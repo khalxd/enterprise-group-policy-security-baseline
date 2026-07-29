@@ -210,11 +210,6 @@ Verification confirmed that all Group Policy Objects were successfully deployed 
 
 ---
 
-## User Security Policies
-
-### Screen Saver Policy
-
-![Screen Saver Policy](screenshots/ScreenSaverPolicy.png)
 
 ### Screen Lock Verification
 
