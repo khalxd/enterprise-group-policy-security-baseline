@@ -27,7 +27,7 @@ As a Systems Administrator, your responsibility is to secure domain-joined Windo
 | Component | Details |
 |-----------|---------|
 | Domain | HOMELAB.LOCAL |
-| Domain Controller | DC01 |
+| Domain Controller | WindowsServer2022 (DC01) |
 | Client Workstation | CLIENT01 |
 | Operating System | Windows Server 2022 / Windows 11 |
 | Directory Service | Active Directory Domain Services |
